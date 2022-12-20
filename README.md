@@ -8,8 +8,3 @@ please fork it and follow the instruction to get pair's code dynamically
 
 <br />
 
-이 스프린트는 제출할 필요는 없습니다.
-
-이거를 고치는 거 맞나요?
-
-sysout
