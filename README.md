@@ -17,4 +17,4 @@
 곤드레밥 -> origin
 밥버거 -> Pair
 거머리 -> origin
-
+리모컨 -> Pair
